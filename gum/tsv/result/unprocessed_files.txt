@@ -1,0 +1,3 @@
+D:\IIIT\Coref Resolution\gum-coref\gum\tsv\cleaned\GUM_vlog_college_clean.tsv
+D:\IIIT\Coref Resolution\gum-coref\gum\tsv\cleaned\GUM_vlog_hiking_clean.tsv
+D:\IIIT\Coref Resolution\gum-coref\gum\tsv\cleaned\GUM_vlog_lipstick_clean.tsv
